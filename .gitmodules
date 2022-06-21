@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "revpref"]
+	path = revpref
+	url = https://github.com/ksurana21/revpref
+	shallow = true
+	registered = true
